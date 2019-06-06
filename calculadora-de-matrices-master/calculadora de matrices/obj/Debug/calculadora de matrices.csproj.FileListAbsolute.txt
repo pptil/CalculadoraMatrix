@@ -1,0 +1,44 @@
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe.config
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.pdb
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csprojResolveAssemblyReference.cache
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.CalculadoraMatrices.resources
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.Properties.Resources.resources
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.GenerateResource.Cache
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.CoreCompileInputs.cache
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.exe
+C:\Users\ITSC\Desktop\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.pdb
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe.config
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.pdb
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csprojResolveAssemblyReference.cache
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.CalculadoraMatrices.resources
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.Properties.Resources.resources
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.GenerateResource.Cache
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.CoreCompileInputs.cache
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.exe
+F:\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.pdb
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csprojAssemblyReference.cache
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.CalculadoraMatrices.resources
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.Properties.Resources.resources
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.GenerateResource.cache
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.CoreCompileInputs.cache
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.exe
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora de matrices.pdb
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe.config
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.exe
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\bin\Debug\calculadora de matrices.pdb
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.ProductoDeDosMatrices.resources
+F:\facultad\matematica\calculadora de matrices\calculadora de matrices\calculadora de matrices\obj\Debug\calculadora_de_matrices.INSTRUCCIONES.resources
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\bin\Debug\calculadora de matrices.exe.config
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\bin\Debug\calculadora de matrices.exe
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\bin\Debug\calculadora de matrices.pdb
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora de matrices.csprojAssemblyReference.cache
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora_de_matrices.CalculadoraMatrices.resources
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora_de_matrices.INSTRUCCIONES.resources
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora_de_matrices.ProductoDeDosMatrices.resources
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora_de_matrices.Properties.Resources.resources
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.GenerateResource.cache
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora de matrices.csproj.CoreCompileInputs.cache
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora de matrices.exe
+C:\Users\ITSC\Desktop\calculadora-de-matrices-master\calculadora de matrices\obj\Debug\calculadora de matrices.pdb
